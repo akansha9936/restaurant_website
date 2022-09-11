@@ -1,2 +1,8 @@
-# restaurant_website
-A website made using html , css and bootstrap . It shows various options available for food ordering and various recipes.
+# Restaurant Landing Page
+
+- Used bootstrap tools & own styles.
+- Implemented responsive template.
+
+👉🏻 [Demo](https://yaninatrekhleb.github.io/restaurant-website/)
+
+![Demo](img/demo.gif)
